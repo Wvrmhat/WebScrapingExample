@@ -7,7 +7,7 @@ Entry point, allows specific blocks of code to be run directly. Allows for testi
 ---
 Shebang specifies which interpreter/application should be used to run specified files
 >#!/usr/bin/env python3
->Takes python from the environment of the system
+>/nTakes python from the environment of the system
 
 In linvux it is possible to make files executable
 >chmod +x main.py

@@ -20,5 +20,5 @@ Windows looks at file extensions, but Linux does not. Files in linux can be hand
 ## Things to note about Web Scraping
 ---
 Crawling is how search engines find websites, this is the predecessor to web scraping.
-Web scraping is not completely illegal. Though some sites do not allow it at all.
+Web scraping is not completely illegal, though some sites do not allow it at all.
 The python library "BeautifulSoup", is a html parsing library which allows python to filter and gather information from webpages.
